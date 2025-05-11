@@ -1,0 +1,7 @@
+psutil==5.9.5
+requests==2.31.0
+pyTelegramBotAPI==4.11.0
+pyzipper==0.3.6
+PyAutoGUI==0.9.54
+pillow==11.0.0
+aiohttp==3.11.13
